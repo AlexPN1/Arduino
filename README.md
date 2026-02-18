@@ -21,14 +21,13 @@ Yellow/Orange (Signal)	D6
 
 📟 RFID-RC522 Connection
 RFID-RC522    	Arduino Pin
-VCC	            3.3V
+3.3V            3.3V
 GND	            GND
-SDA	            ~10
+SDA	           ~10
 SCK	            13
 MOSI           ~11
-MISO           12
-
-
+MISO            12
+RST            ~9
 
 
 
